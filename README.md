@@ -69,7 +69,7 @@ The objective was to uncover key drivers of sales and identify areas for improve
 - Libraries: Pandas, Matplotlib, Seaborn
 - Environment: Google Colab Notebook
 
-## Data Cleaning and Analysis
+## 🧹 Data Cleaning and Analysis
 
 Data cleaning was performed in Excel and transformed into power bi power query to ensure data integrity and consistency.
 
@@ -93,7 +93,7 @@ MySql & DAX
 
 - Utilized MySql and DAX to make measures and calculations for Total sales, Total orders, Total quantity sold, Sales analysis by weekdays and weekends, Sales analysis by store location, Daily sales with average line, Sales analysis by product category, Sales analysis by days and hours.
 
-## Dashboard
+## 📈 Dashboard
 
 <img width="1827" height="766" alt="Dashboard" src="https://github.com/user-attachments/assets/8932bfe5-c196-43b3-be3e-63c940265114" />
 
