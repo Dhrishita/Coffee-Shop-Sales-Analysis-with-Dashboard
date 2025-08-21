@@ -3,8 +3,8 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Dataset](#dataset)
 - [Problem Statement](#problem-statement)
+- [Dataset](#dataset)
 - [Key Metrics](#key-metrics)
 - [Visual Insights](#visual-insights)
 - [Tools and Technologies](#Tools-and-Technologies)
@@ -22,11 +22,6 @@ A Power BI dashboard project analyzing coffee shop sales data. It provides insig
 
 By leveraging Power BI, MySQL, and Excel, the project delivers an interactive visualization tool to help the coffee shop make data-driven decisions for improved performance.
 
-## 📂 Dataset
-
-- Source: [Kaggle – Coffee Sales Dataset](https://www.kaggle.com/datasets/ihelon/coffee-sales/data)
-- Description: Includes transactional data such as date, product sold, payment type, card ID, transaction amount, and time of purchase.
-
 ## 🚩 Problem Statement
 
 The coffee shop struggled to understand its overall sales performance and lacked visibility into:
@@ -38,6 +33,11 @@ The coffee shop struggled to understand its overall sales performance and lacked
 - 📈 Daily & hourly sales trends
 - 🍵 Product category contributions
 - ⭐ Best-selling products (Top 10)
+  
+## 📂 Dataset
+
+- Source: [Kaggle – Coffee Sales Dataset](https://www.kaggle.com/datasets/ihelon/coffee-sales/data)
+- Description: Includes transactional data such as date, product sold, payment type, card ID, transaction amount, and time of purchase.
 
 The objective was to uncover key drivers of sales and identify areas for improvement.
 
